@@ -1,0 +1,5 @@
+interface InteraksiInternet {
+
+    void hubungkanWiFi();
+
+}
